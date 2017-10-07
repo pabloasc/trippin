@@ -43,9 +43,9 @@
         2,
         "single"
       ]
-    },
-    "scripts": {
-      "build": "gulp serve"
     }
+  },
+  "scripts": {
+      "build": "gulp serve"
   }
 }
